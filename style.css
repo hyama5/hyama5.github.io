@@ -9,7 +9,8 @@ body {
   padding: 0;
   font-size: 12px;
   color: #333333;
-  background-image: url("https://hyama5.github.io/img/back.gif");
+//  background-image: url("https://hyama5.github.io/img/back.gif");
+  background-image: url("img/back.gif");
 }
 
 a:link {
