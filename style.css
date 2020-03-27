@@ -422,6 +422,7 @@ td.table_line {
 
 /*-- 追加 --*/
 .box_scrollbar {
+      /*overflow: auto;*/
       overflow: auto;
       /*width:100%;*/
       max-height:600px;
